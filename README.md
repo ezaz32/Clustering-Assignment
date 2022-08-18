@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ezaz32
+- 👋 Hi, I’m Ezaz Paliza
 - 👀 I’m interested in Software Development as well as Data Science
 - 🌱 I’m currently learning Machine Learning
 
